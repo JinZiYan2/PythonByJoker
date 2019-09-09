@@ -1,7 +1,7 @@
 # 1.
 # C = float(input("请输入摄氏温度：>>"))
 # F = (9 / 5) * C + 32
-# print("摄氏温度为：%d"%F)
+# print("摄氏温度为：%.1f"%F)
 # 2.
 # import math
 # radius = float(input("请输入圆柱的半径:>>"))
